@@ -1,6 +1,6 @@
 ### Hi Everyone 👋
 
-I'm Mahier from 🇿🇦 and I'm living in 🇰🇷.
+I'm Mahier from South Africa and I'm living in South Korea.
 
 - 🔭 I’m currently working on a **Next.js** and **Firebase project**.
 - 🌱 I’m currently learning **React.js, Next.js,** and **TypeScript**.
